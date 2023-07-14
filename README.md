@@ -99,6 +99,10 @@ $ python generator.py
 $ cd src/evaluation/evaluation-image-semantic
 $ python evaluation_uqi.py
 ```
+
+* CLIP metric (wip)
+
+* FID metric (wip)
 * Emotion Evaluation
 ```bash
 $ cd src/evaluation/evaluation-emotion
